@@ -29,3 +29,4 @@
 	<bean id="printer" class="myspring.di.xml.StringPrinter" />
 	<bean id="consolePrinter" class="myspring.di.xml.ConsolePrinter" />
 </beans>
+
